@@ -22,7 +22,7 @@ def main():
     print()
     print("...AAB")
     print()
- 
+
     print(".......AAAA................AAAA............BBBBBBBBB........")
     print("......AAAAAA..............AAAAAA...........BB.......BB......")
     print(".....AA....AA............AA....AA..........BB.......BB......")
@@ -36,3 +36,4 @@ def main():
  
     print()
  
+main()
